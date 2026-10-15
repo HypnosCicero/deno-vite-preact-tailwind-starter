@@ -38,7 +38,7 @@ export function App() {
   return (
     <div class="fresh-gradient min-h-screen flex flex-col items-center justify-center px-4 py-8">
       <div class="max-w-screen-md mx-auto flex flex-col items-center text-center">
-        <h1 class="text-4xl font-bold mb-4">Welcome to </h1>
+        <h1 class="text-4xl font-bold mb-4">Welcome to native deno + vite + preact + tailwind</h1>
         <p class="my-4 text-gray-700">
           Try updating this message in the code and refresh.
         </p>
